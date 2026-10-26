@@ -3,6 +3,7 @@
 [![CI](https://github.com/denggui-ai/minimal-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/denggui-ai/minimal-harness/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/denggui-ai/minimal-harness)](https://github.com/denggui-ai/minimal-harness/releases)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Best of Agent Harnesses](https://img.shields.io/badge/%F0%9F%8F%86_Best_of-Agent_Harnesses-5ac4bf)](https://github.com/RyanAlberts/best-of-Agent-Harnesses)
 
 一个面向 AI 编程的轻量本地验收与跨会话交接工具。先定义必须成立的行为，再运行检查、
 保留证据；只有证据仍对应当前源码和验收定义时，任务才能登记完成。

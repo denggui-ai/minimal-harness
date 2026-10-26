@@ -3,6 +3,7 @@
 [![CI](https://github.com/denggui-ai/minimal-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/denggui-ai/minimal-harness/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/denggui-ai/minimal-harness)](https://github.com/denggui-ai/minimal-harness/releases)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Best of Agent Harnesses](https://img.shields.io/badge/%F0%9F%8F%86_Best_of-Agent_Harnesses-5ac4bf)](https://github.com/RyanAlberts/best-of-Agent-Harnesses)
 
 A small, local acceptance and handoff tool for coding agents. Define what must work,
 run the checks, retain evidence, and complete a task only while that evidence still
